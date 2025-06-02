@@ -1,4 +1,4 @@
-# CONFIGR: A vision-based model for long-range figure completion
+This is the readme file for the model associated with the paper:
 
 Carpenter, G.A., Gaddam, C.S., Mingolla, E., *CONFIGR: A vision-based model for long-range figure completion*, *Neural Networks* - Volume 20, 1109-1131 (2007).
 
@@ -76,7 +76,7 @@ The code was tested using Matlab V 6.5 and v 7.5.
 
 Images in the test folder provided here can be used as input according to the following notation:
 
-```
+```matlab
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Usage:
 % I_output = runCONFIGR(I, PixRes)
